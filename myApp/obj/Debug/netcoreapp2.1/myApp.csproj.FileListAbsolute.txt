@@ -1,0 +1,11 @@
+/Users/xuweng/Documents/my_hobby/Cities/myApp/bin/Debug/netcoreapp2.1/myApp.deps.json
+/Users/xuweng/Documents/my_hobby/Cities/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.json
+/Users/xuweng/Documents/my_hobby/Cities/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.dev.json
+/Users/xuweng/Documents/my_hobby/Cities/myApp/bin/Debug/netcoreapp2.1/myApp.dll
+/Users/xuweng/Documents/my_hobby/Cities/myApp/bin/Debug/netcoreapp2.1/myApp.pdb
+/Users/xuweng/Documents/my_hobby/Cities/myApp/obj/Debug/netcoreapp2.1/myApp.csprojAssemblyReference.cache
+/Users/xuweng/Documents/my_hobby/Cities/myApp/obj/Debug/netcoreapp2.1/myApp.csproj.CoreCompileInputs.cache
+/Users/xuweng/Documents/my_hobby/Cities/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfoInputs.cache
+/Users/xuweng/Documents/my_hobby/Cities/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfo.cs
+/Users/xuweng/Documents/my_hobby/Cities/myApp/obj/Debug/netcoreapp2.1/myApp.dll
+/Users/xuweng/Documents/my_hobby/Cities/myApp/obj/Debug/netcoreapp2.1/myApp.pdb
