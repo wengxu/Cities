@@ -38,6 +38,8 @@ namespace MvcMovie
 
             services.AddDbContext<MvcMovieContext>(options =>
                   options.UseSqlite("Data Source=MvcMovie.db"));
+            services.AddDbContext<MvcSealContactContext>(options =>
+                  options.UseSqlite("Data Source=MvcSealContact.db"));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
